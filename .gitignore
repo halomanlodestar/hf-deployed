@@ -1,0 +1,14 @@
+# Local virtual environments (machine-specific, never commit)
+.venv*/
+venv/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Editor settings
+.idea/
+.vscode/
+
+# Temp file written while saving history
+history.tmp

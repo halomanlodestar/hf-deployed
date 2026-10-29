@@ -1,0 +1,9 @@
+.venv*/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.git/
+run_windows.bat
+history.tmp

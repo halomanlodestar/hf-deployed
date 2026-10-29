@@ -1,13 +1,3 @@
----
-title: XNIDS
-emoji: 🛡️
-colorFrom: red
-colorTo: gray
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # XNIDS — FastAPI backend
 
 This package migrates the Flask backend to FastAPI while preserving the existing HTML, CSS, and JavaScript UI files. Existing page URLs and API paths are retained.
